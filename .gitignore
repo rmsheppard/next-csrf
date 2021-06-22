@@ -145,8 +145,6 @@ tags
 
 #### visualstudiocode ####
 .vscode/*
-
-dist
 .idea
 
 .now
